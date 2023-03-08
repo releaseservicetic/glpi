@@ -62,9 +62,9 @@ clear
 echo "#--------------------------------------------------------#"
 echo       "INSTALANDO O PLUGIN FIELDS (Campos adicionais)"
 echo "#--------------------------------------------------------#"
-wget https://github.com/pluginsGLPI/fields/releases/download/1.20.0/glpi-fields-1.20.0.tar.bz2
-tar xvf glpi-fields-1.20.0.tar.bz2 &&
-rm -Rf glpi-fields-1.20.0.tar.bz2
+wget https://github.com/pluginsGLPI/fields/releases/download/1.20.1/glpi-fields-1.20.1.tar.bz2
+tar xvf glpi-fields-1.20.1.tar.bz2 &&
+rm -Rf glpi-fields-1.20.1.tar.bz2
 # 
 clear
 echo "#--------------------------------------------------------#"
